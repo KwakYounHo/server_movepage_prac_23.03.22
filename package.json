@@ -1,0 +1,21 @@
+{
+  "name": "server_movepage_prac_23.03.22",
+  "version": "1.0.0",
+  "description": "move page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(http://github.com/KwakYounHo/server_movepage_prac_23.03.22)"
+  },
+  "keywords": [
+    "movePage"
+  ],
+  "author": "KwakYounHo",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.2.0"
+  }
+}
